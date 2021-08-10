@@ -14,5 +14,5 @@
 
 >`cd p-gen`
 
->`python p-gen`
+>`python p-gen.py`
 
