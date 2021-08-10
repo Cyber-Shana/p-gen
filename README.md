@@ -14,5 +14,7 @@
 
 >`cd p-gen`
 
+>`clear`
+
 >`python p-gen.py`
 
