@@ -1,6 +1,6 @@
 # Password Generator
 
-### Coded By Cyber Shana | Owner Og Cyber Back shot |
+### Coded By Cyber Shana | Owner Of Cyber Back shot |
 
 ## Command list 
 
