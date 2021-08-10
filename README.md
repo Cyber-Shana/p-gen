@@ -10,7 +10,7 @@
 
 >`pkg install python -y`
 
->`git clone https://github.com/cybershana/wa-group-hijack`
+>`git clone https://github.com/Cyber-Shana/p-gen.git`
 
 >`cd p-gen`
 
