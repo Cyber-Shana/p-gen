@@ -1,12 +1,14 @@
-# Password Generator
-
-### Coded By Cyber Shana | Owner Of Cyber Back shot |     
+# P-Gen
+   
 
 <p style="text-align: center;"><span style="font-size: 18pt;"><strong>👉 Coded by 👇<br /></strong></span> <br /><span style="font-size: 14pt; color: #0000ff;">🎭 Cyber Shana 🎭</span><br /><span style="font-size: 14pt; color: #0000ff;">✨️ Owner of Cyber Back Shot ✨️</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt; color: #0000ff;"></span></p>
   
 <p style="text-align: left;"><span style="font-size: 14pt; color: #0000ff;"><img src="https://github.com/Cyber-Shana/wa-group-hijack/blob/main/WhatsApp%20Image%202021-08-09%20at%2009.01.20.jpeg?raw=true" alt="" /></span></p>
 
+# Password Generator
+
+### Coded By Cyber Shana | Owner Of Cyber Back shot |     
 ## Command list 
 
 >`apt update && apt upgrade -y`
@@ -21,5 +23,7 @@
 
 
 >`python p-gen.py`
+
+#                        C.B.S Team
 
 <p style="text-align: left;"><span style="font-size: 14pt; color: #0000ff;"><img src="https://raw.githubusercontent.com/Cyber-Shana/p-gen/e72acb21e0350d91b356e4ae7edc852d886a3c70/WhatsApp%20Image%202021-08-08%20at%2018.29.55.jpeg" alt="" /></span></p>
