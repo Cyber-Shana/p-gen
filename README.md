@@ -22,3 +22,4 @@
 
 >`python p-gen.py`
 
+<p style="text-align: left;"><span style="font-size: 14pt; color: #0000ff;"><img src="    " alt="" /></span></p>
