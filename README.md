@@ -7,7 +7,7 @@
 <p>*🎭 ωє тαкє яι∂кѕ вє¢αυѕє ωє αяє αℓωαуѕ ѕσηηє¢єяηє∂ αвσυт тнє ѕє¢υяιту σƒ συя ѕιѕтємѕ</p>
 <p style="text-align: left;"><span style="font-size: 14pt; color: #0000ff;"><img src="https://github.com/Cyber-Shana/wa-group-hijack/blob/main/WhatsApp%20Image%202021-08-09%20at%2009.01.20.jpeg?raw=true" alt="" /></span></p>
 
-# Password Generator
+# ✨️Password Generator✨️
 
 ### Coded By Cyber Shana | Owner Of Cyber Back shot |     
 ## Command list 
