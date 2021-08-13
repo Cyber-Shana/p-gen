@@ -1,6 +1,8 @@
 #password generator tool cyber shana
+import os
 import time
 import random
+os.system("clear")
 time.sleep(0.8)
 print("\033[31m °•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°")
 time.sleep(0.8)
